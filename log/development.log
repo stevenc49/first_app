@@ -1571,3 +1571,293 @@ Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 15:18:11 
 
 Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 15:18:14 -0700
 >>>>>>> 6d7523620634b90f1e873ebd8df9d434a33c025c
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-09-02 22:22:31 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 3397ms (Views: 3395.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:35 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:36 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-02 22:22:43 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/apple/.rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.8/lib/rails/templates/rails/welcome/index.html.erb (0.9ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-09-02 22:22:49 -0700
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-09-02 22:32:04 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 121ms (Views: 120.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:05 -0700
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-09-02 22:32:09 -0700
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-09-02 22:32:56 -0700
