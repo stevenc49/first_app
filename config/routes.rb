@@ -1,4 +1,7 @@
 FirstApp::Application.routes.draw do
+  get "user/controller"
+  get "user/Users"
+  get "user/new"
   resources :microposts
   resources :users
 
